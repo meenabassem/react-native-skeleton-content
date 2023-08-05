@@ -11,6 +11,7 @@
     "baseUrl": "./",
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
+    "noImplicitAny":false,
     "paths": {
       "react-native-redash/lib/module/v1": [
         "./node_modules/react-native-redash/lib/typescript/v1/index.d.ts"
